@@ -1,5 +1,8 @@
 ## HIDAPI library for Windows, Linux, FreeBSD and macOS
 
+This fork includes commit 12f2f3e0cb62e5a7d50b786e11c9775a6e4fc415 from the
+old repository in signal11 to support usage_page.
+
 | CI instance          | Status |
 |----------------------|--------|
 | `macOS master`       | [![Build Status](https://travis-ci.org/libusb/hidapi.svg?branch=master)](https://travis-ci.org/libusb/hidapi) |
